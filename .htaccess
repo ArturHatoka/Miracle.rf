@@ -1,0 +1,12 @@
+RewriteEngine On
+ RewriteBase /
+ RewriteRule ^(.*)index\.php$ $1 [R=301,L]
+ RemoveHandler .html .htm
+ AddType application/x-httpd-php .php .htm .html
+ AddDefaultCharset UTF-8
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteRule ^([^.]+)$ $1.php [NC,L]
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteRule ^([^.]+)$ $1.html [NC,L]
+ RewriteCond %{REQUEST_FILENAME} !-f
+ RewriteRule ^([^.]+)$ $1.htm [NC,L]
