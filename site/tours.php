@@ -291,8 +291,13 @@
 
                     <!--В гости к Оззи осень 2019 - апрель 2020-->
                     <? include('include/tours/guest_ozzy-autumn_a.php'); ?>
-                    <p>22.10.19</p>
+                    <p>22.10.2019</p>
                     <? include('include/tours/guest_ozzy-autumn_b.php'); ?>
+
+                    <!--В гости к Киви и Оззи-->
+                    <? include('include/tours/guest_ozzy+kiwi_2019_a.php'); ?>
+                    <p>12.10.2019</p>
+                    <? include('include/tours/guest_ozzy+kiwi_2019_b.php'); ?>
 
 
 
@@ -472,13 +477,13 @@
 
                     <!--В гости к Оззи осень 2019 - апрель 2020-->
                     <? include('include/tours/guest_ozzy-autumn_a.php'); ?>
-                    <p>01.03.20</p>
+                    <p>01.03.20, 24.03.20</p>
                     <? include('include/tours/guest_ozzy-autumn_b.php'); ?>
 
-                    <!--В гости к Оззи осень 2019 - апрель 2020-->
-                    <? include('include/tours/guest_ozzy-autumn_a.php'); ?>
-                    <p>24.03.20</p>
-                    <? include('include/tours/guest_ozzy-autumn_b.php'); ?>
+                    <!--В гости к Киви и Оззи-->
+                    <? include('include/tours/guest_ozzy+kiwi_2019_a.php'); ?>
+                    <p>14.03.2020</p>
+                    <? include('include/tours/guest_ozzy+kiwi_2019_b.php'); ?>
 
                 </details>
             </div>
