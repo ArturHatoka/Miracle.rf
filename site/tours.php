@@ -395,6 +395,20 @@
                 <details>
                     <summary>Январь</summary>
 
+                    <!--Долина Катманду + храм Дакшинкали + Храм исполнения желаний + Читван-->
+                    <? include('include/tours/holidays_katmandu_dol_and_chitvan_a.php'); ?>
+                    <p> ??.?? - ??.??.2020</p>
+                    <? include('include/tours/holidays_katmandu_dol_and_chitvan_b.php'); ?>
+
+                    <!--Долина Катманду и храм Дакшинкали-->
+                    <? include('include/tours/katmandu_dol_and_dakshinkaly_temple_a.php'); ?>
+                    <p> ??.?? - ??.??.2020</p>
+                    <? include('include/tours/katmandu_dol_and_dakshinkaly_temple_b.php'); ?>
+
+                    <!--Долина Катманду + храм Дакшинкали + Храм исполнения желаний + Покхара-->
+                    <? include('include/tours/holidays_katmandu_dol_a.php'); ?>
+                    <p> ??.?? - ??.??.2020</p>
+                    <? include('include/tours/holidays_katmandu_dol_b.php'); ?>
 
                 </details>
                 <details>
@@ -402,7 +416,7 @@
 
                     <!--Стамбул и Северный кипр-->
                     <? include('include/tours/stamb-kipr_a.php'); ?>
-                    <p> ??.?? - ??.??.2019</p>
+                    <p> ??.?? - ??.??.2020</p>
                     <? include('include/tours/stamb-kipr_b.php'); ?>
 
                     <!--Южная Африка – экспресс 2019-->

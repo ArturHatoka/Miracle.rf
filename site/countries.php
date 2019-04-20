@@ -1046,7 +1046,7 @@
                         <div class="cntr-flg">
                             <a href="countries/izrail.php">
                                 <div class="cntr-flg-txt">
-                                    <h2>Израйль</h2>
+                                    <h2>Израиль</h2>
                                 </div>
                                 <div class="cntr-flg-img">
                                     <img src="../img/country/izrail.png" alt="">
