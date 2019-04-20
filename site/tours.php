@@ -50,6 +50,17 @@
                     <p>26.04.20</p>
                     <? include('include/tours/guest_ozzy-autumn_b.php'); ?>
 
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>08.04, 29.04</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
+
                 </details>
                 <details>
                     <summary>Май</summary>
@@ -105,6 +116,17 @@
                     <? include('include/tours/ua-king_jorney_b.php'); ?>
 
 
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>06.05, 20.05, 27.05</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
+
                 </details>
                 <details>
                     <summary>Июнь</summary>
@@ -139,6 +161,17 @@
                     <p>Июнь–7,14,21,28</p>
                     <? include('include/tours/ua-king_jorney_b.php'); ?>
 
+
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>03.06, 17.06, 24.06</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
 
                 </details>
                 <details>
@@ -175,6 +208,17 @@
                     <? include('include/tours/ua-king_jorney_b.php'); ?>
 
 
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>01.07, 08.07, 15.07, 22.07</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
+
                 </details>
                 <details>
                     <summary>Август</summary>
@@ -209,6 +253,17 @@
                     <p>Август–2,9,16,23,28,30</p>
                     <? include('include/tours/ua-king_jorney_b.php'); ?>
 
+
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>05.08, 12.08, 19.08</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
 
                 </details>
                 <details>
@@ -255,6 +310,17 @@
                     <? include('include/tours/ua-king_jorney_b.php'); ?>
 
 
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>02.09, 09.09, 16.09, 23.09, 30.09</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
+
                 </details>
                 <details>
                     <summary>Октябрь</summary>
@@ -299,7 +365,16 @@
                     <p>12.10.2019</p>
                     <? include('include/tours/guest_ozzy+kiwi_2019_b.php'); ?>
 
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>14.10, 21.10, 28.10</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
 
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно кроме: 01.10-08.10</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
 
                 </details>
                 <details>
@@ -346,6 +421,17 @@
                     <? include('include/tours/guest_ozzy-autumn_b.php'); ?>
 
 
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>04.11, 11.11, 18.11, 25.11</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
+
                 </details>
                 <details>
                     <summary>Декабрь</summary>
@@ -390,6 +476,16 @@
                     <p>29.12.2019</p>
                     <? include('include/tours/guest_ozzy_b.php'); ?>
 
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>02.12, 09.12, 16.12</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
+
 
                 </details>
                 <details>
@@ -409,6 +505,16 @@
                     <? include('include/tours/holidays_katmandu_dol_a.php'); ?>
                     <p> ??.?? - ??.??.2020</p>
                     <? include('include/tours/holidays_katmandu_dol_b.php'); ?>
+
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>06.01, 13.01, 20.01, 27.01 2020</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
 
                 </details>
                 <details>
@@ -448,6 +554,18 @@
                     <? include('include/tours/guest_ozzy-autumn_a.php'); ?>
                     <p>02.02.20</p>
                     <? include('include/tours/guest_ozzy-autumn_b.php'); ?>
+
+
+                    <!--2 СТРАНЫ ИЗРАИЛЬ-ИОРДАНИЯ-->
+                    <? include('include/tours/izrail+iordaniya_a.php'); ?>
+                    <p>03.02, 10.02, 17.02, 24.02 2020</p>
+                    <? include('include/tours/izrail+iordaniya_b.php'); ?>
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
+
 
 
                 </details>
@@ -498,6 +616,11 @@
                     <? include('include/tours/guest_ozzy+kiwi_2019_a.php'); ?>
                     <p>14.03.2020</p>
                     <? include('include/tours/guest_ozzy+kiwi_2019_b.php'); ?>
+
+                    <!--ПАНОРАМА ИЗРАИЛЯ -Нетания-->
+                    <? include('include/tours/panorama_izrail_a.php'); ?>
+                    <p>Ежедневно</p>
+                    <? include('include/tours/panorama_izrail_b.php'); ?>
 
                 </details>
             </div>
